@@ -12,7 +12,7 @@ We provide a comprehensive study of the [Cifar10 dataset ](https://www.cs.toront
 
 | Architecture               | Epoch # | Test Accuracy |
 |----------------------------|---------|---------------|
-| Convolution Neural Network | 10      | 73.23%         |
+| Convolution Neural Network | 10      | 73.23%        |
 | Convolution Neural Network | 50      | 78.01%        |
 | Residual Network           | 10      | 74.5%         |
-| Residual Network           | 50      | 86%           |
+| Residual Network           | 50      | 85.32%        |
