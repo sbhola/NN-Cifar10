@@ -10,9 +10,9 @@ We provide a comprehensive study of the [Cifar10 dataset ](https://www.cs.toront
 2.  ##### Cifar10_ResNet_02.ipynb presents a brief study on Residual Networks and 20 layer implementation. #####
 
 
-| Architecture               | Epoch # | Accuracy |   |   |
-|----------------------------|---------|----------|---|---|
-| Convolution Neural Network | 10      | 73.4%    |   |   |
-| Convolution Neural Network | 50      | 78.01%   |   |   |
-| Residual Network           | 10      | 74.5%    |   |   |
-| Residual Network           | 50      | 86%      |   |   |
+| Architecture               | Epoch # | Accuracy |
+|----------------------------|---------|----------|
+| Convolution Neural Network | 10      | 73.4%    |
+| Convolution Neural Network | 50      | 78.01%   |
+| Residual Network           | 10      | 74.5%    |
+| Residual Network           | 50      | 86%      |
