@@ -1,4 +1,4 @@
-# Training Cifar10 dataset using CNN and Residual Networks
+# Classifying Cifar10 dataset using CNN and Residual Networks
 This project is for the EECS 435 Deep Learning at Northwestern University, McCormick School of Engineering. This work is done by the following team members:
 1. ##### Siddharth Bhola #####
 2. ##### Rekha Goverthanam #####
